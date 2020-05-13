@@ -1,0 +1,12 @@
+body{
+	background: yellow;
+}
+li{
+	border:3px solid blue;
+}
+#unique{
+	background:red;
+}
+.completed{
+	text-decoration: line-through;
+}
